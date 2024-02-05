@@ -1,0 +1,2 @@
+# assistant
+Wordle game solver
